@@ -26,7 +26,7 @@ export default defineConfig({
         theme_color: "#0d9488",
         icons: [
           {
-            src: "/trustipay.ico",
+            src: "/trustipay.png",
             sizes: "192x192",
             type: "image/ico",
           },

@@ -1159,7 +1159,7 @@ function App() {
                   : "border-white/5 bg-white/5 text-slate-300 hover:border-cyan-300/30 hover:bg-cyan-300/10"
               }`}
             >
-              <span className="text-base">{item.icon}</span>
+              <span className="text-xl">{item.icon}</span>
               {item.label}
             </button>
           ))}
